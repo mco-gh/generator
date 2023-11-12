@@ -1,2 +1,2 @@
-# grader
-Modular quiz generator for the Quizaic app.
+# generator
+Modular quiz generator for Quizaic.com.
