@@ -1,2 +1,2 @@
 # grader
-Free-form question grader for Quizaic app.
+Modular quiz generator for the Quizaic app.
